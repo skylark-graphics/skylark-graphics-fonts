@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["define","fonts"],"mappings":";;;;;;;AAAAA,QACC,UACA,UACC,SAASC,GACV,OAAOA","file":"../main.js","sourcesContent":["define([\r\n\t\"./fonts\",\r\n\t\"./Font\"\r\n],function(fonts){\r\n\treturn fonts;\r\n});"]}
